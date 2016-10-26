@@ -1,5 +1,6 @@
 {
   "name": "next-react-redux-boilerplate",
+  "description": "just a boilerplate, for me mostly, to make a very quick react redux app",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Jacob Lowe",
