@@ -1,0 +1,5 @@
+body, html, #__next {
+  height: 100%;
+  background: #efefef;
+  font-family: 'Helvetica Nueu', sans-serif;
+}
