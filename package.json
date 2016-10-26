@@ -1,7 +1,6 @@
 {
-  "name": "sphere-dashnext",
+  "name": "next-react-redux-boilerplate",
   "version": "0.0.1",
-  "description": "new version of the Sphere dashboard",
   "main": "index.js",
   "author": "Jacob Lowe",
   "license": "MIT",
