@@ -1,5 +1,7 @@
 # Next React Redux Boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/next-react-redux-boilerplate.svg)](https://greenkeeper.io/)
+
 Just a [next](https://github.com/zeit/next.js) boilerplate, for me mostly, to make a very quick react redux app.
 
 ## Usage
